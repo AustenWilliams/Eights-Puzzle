@@ -1,5 +1,5 @@
 # Eights-Puzzle
-##Implemented search algorithms to solve MODIFIED 8-puzzle:
+## Implemented search algorithms to solve MODIFIED 8-puzzle:
 
 ### Breadth-first (BFS)
 ### Depth-first (DFS)
