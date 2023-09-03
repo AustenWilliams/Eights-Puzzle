@@ -1,12 +1,7 @@
 # Eights-Puzzle
 ## Implemented search algorithms to solve MODIFIED 8-puzzle:
 
-### Breadth-first (BFS)
-### Depth-first (DFS)
-### Uniform-Cost (UCS)
-### Greedy Best-first (GBF), with heuristic ℎ1: number of tiles not in correct position
-### A* with heuristics ℎ1, ℎ2, and ℎ3
-
+My first assignment for Foundations of AI in which I had to design an algorithm to solve the classic Eights Puzzle problem. I did this by immplementing Breadth-First search, Depth-First search, Uniform-Cost search, Greedy Best First Search, and A* search. Each search is designed to use have a succesor function and some use heuristics.
 
 
 
